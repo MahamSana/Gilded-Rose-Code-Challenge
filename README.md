@@ -7,7 +7,7 @@ We help companies from startups to corporations build their products from scratc
 The code challenge is to improve a buggy and unstructured code.
 Your goal is to do following:
 - Understand the problem/requirements of code challenge.
-- Setup a private git repository for this project.
+- Setup a private git repository for this project and email us a zip file of that repo.
 - Choose any language template already available in the repo.
 - Add **unit test cases** to your code (if you are not aware of unit test cases do read how to write good unit test cases).
 - Refactor code.
@@ -16,7 +16,7 @@ Your goal is to do following:
 Evluation of your assignment will be based on following criteria:
 - 40% Test cases
 - 30% Code Structuring/Refactoring
-- 30 Removing Bugs
+- 30% Removing Bugs
 
 # Gilded Rose Refactoring Challenge
 We have recently engaged with a client, The Gilded Rose, who has hired us to update their inventory management system. The Gilded Rose is a small inn with a prime location in a prominent city ran by a friendly innkeeper named Allison. They only buy and sell only the finest goods. Unfortunately, our goods are constantly degrading in quality as they approach their sell by date.
